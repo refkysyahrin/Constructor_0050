@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Constructor_0050", "Constructor_0050.vcxproj", "{DFD088C1-A50F-4018-9189-F8F6AD3DF214}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mbrStatikfunc", "..\mbrStatikfunc\mbrStatikfunc.vcxproj", "{3866DE82-0A26-4842-9FF2-8F0E8E38C73C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{DFD088C1-A50F-4018-9189-F8F6AD3DF214}.Release|x64.Build.0 = Release|x64
 		{DFD088C1-A50F-4018-9189-F8F6AD3DF214}.Release|x86.ActiveCfg = Release|Win32
 		{DFD088C1-A50F-4018-9189-F8F6AD3DF214}.Release|x86.Build.0 = Release|Win32
+		{3866DE82-0A26-4842-9FF2-8F0E8E38C73C}.Debug|x64.ActiveCfg = Debug|x64
+		{3866DE82-0A26-4842-9FF2-8F0E8E38C73C}.Debug|x64.Build.0 = Debug|x64
+		{3866DE82-0A26-4842-9FF2-8F0E8E38C73C}.Debug|x86.ActiveCfg = Debug|Win32
+		{3866DE82-0A26-4842-9FF2-8F0E8E38C73C}.Debug|x86.Build.0 = Debug|Win32
+		{3866DE82-0A26-4842-9FF2-8F0E8E38C73C}.Release|x64.ActiveCfg = Release|x64
+		{3866DE82-0A26-4842-9FF2-8F0E8E38C73C}.Release|x64.Build.0 = Release|x64
+		{3866DE82-0A26-4842-9FF2-8F0E8E38C73C}.Release|x86.ActiveCfg = Release|Win32
+		{3866DE82-0A26-4842-9FF2-8F0E8E38C73C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
